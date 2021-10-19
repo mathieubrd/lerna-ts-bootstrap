@@ -1,0 +1,15 @@
+{
+  "name": "@lerna-test/entities",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Mathieu Brochard <mathieu.brochard@outlook.com>",
+  "homepage": "",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "scripts": {
+    "build": "tsc --pretty",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
+  }
+}
